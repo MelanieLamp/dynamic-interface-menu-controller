@@ -11,7 +11,8 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 > **Architecture Principle:** All menus, buttons, and HUD elements function as lightweight presentation layers. They operate dynamically by querying localized data states rather than compiling heavy concrete gameplay references, maximizing performance optimization.
 
 <br>
-## ⚙️ Core Technical Features
+
+## ⚙️ Core Technical Features <br>
 
 <p align="left">
   <img src="images/menuDemo.webp" alt="UI/UX Menu Controller Framework Preview Banner" width="750" />
@@ -28,7 +29,7 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 ### 3. Inventory Matrix Lifecycle Loop
 * **Boundary Evaluation:** Instantly polls an object's structural properties upon entering its interaction boundary to initialize automated pickup routines.
 * **UI-to-World Synchronization:** Populates container matrices with mapped visual icons, flushes active memory references on deployment, and handles physical 3D object regeneration within a self-contained lifecycle loop.
-<br>
+<br><br>
 ---
 
 <img width="837" height="388" alt="graphInventory" src="https://github.com/user-attachments/assets/e9558564-3e88-48ab-90a1-ed2365f86f20" />
@@ -39,9 +40,9 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 2. **Instance Flush:** Physical representation is safely unspawned $\rightarrow$ Transformed into memory payload.
 3. **Matrix Binding:** Target inventory grid slot is populated $\rightarrow$ Event listener registers assigned visual icon.
 4. **Purge & Spawn:** Interface slot selection triggered $\rightarrow$ Local data slot reference dropped $\rightarrow$ 3D object regenerated in virtual coordinates.
-
+<br>
 ---
-
+<br>
 ## 📅 Roadmap & Future Milestones
 
 - [ ] **Automated Save-State Serialization:** Integrate automated state serializers directly into the primary startup boot sequences.
