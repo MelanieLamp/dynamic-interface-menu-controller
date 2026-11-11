@@ -18,6 +18,7 @@ A modular, data-driven user interface architecture engineered to bridge visual d
 ## 🛠 Architectural Overview
 
 ![Alternative text description](https://imgur.com/jffHeLa)
+![Turtle crossing dangerous roads and rivers](https://imgur.com/jffHeLa)
 
 
 ### 1. Separation of Concerns
