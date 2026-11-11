@@ -1,10 +1,11 @@
+
 # UI/UX Menu Controller Framework
 
 A modular, data-driven user interface architecture engineered to bridge aesthetic visual layouts with responsive backend game state logic. By establishing a clean separation between artistic presentation templates and core system execution, this framework dynamically manages diverse menu screens and game runtime states under strict memory and performance budgets.
 
 > **Architecture Principle:** All menus, buttons, and HUD elements function as lightweight presentation layers. They operate dynamically by querying localized data states rather than compiling heavy concrete gameplay references, maximizing performance optimization.
 
----
+---C:\Users\Mark Lamp\Desktop\Portfolio Website\html5up_website\demos\inventoryDemo.webp
 
 ## ⚙️ Core Technical Features
 
