@@ -1,6 +1,5 @@
-<br>
 
-# UI/UX Menu Controller Framework
+## UI/UX Menu Controller Framework
 
 A modular, data-driven user interface architecture engineered to bridge visual design layouts with responsive backend game state logic. This framework completely decouples aesthetic presentation layers from core game runtime systems, allowing a single structural layout to dynamically drive diverse menu configurations under strict memory and performance budgets.
 
@@ -17,8 +16,7 @@ A modular, data-driven user interface architecture engineered to bridge visual d
 
 ## 🛠 Architectural Overview
 
-![Alternative text description](https://imgur.com/jffHeLa)
-![Turtle crossing dangerous roads and rivers](https://imgur.com/jffHeLa)
+<img width="837" height="388" alt="graphInventory" src="https://github.com/user-attachments/assets/e9558564-3e88-48ab-90a1-ed2365f86f20" />
 
 
 ### 1. Separation of Concerns
