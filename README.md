@@ -9,7 +9,7 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 </p><br>
 
 > **Architecture Principle:** All menus, buttons, and HUD elements function as lightweight presentation layers. They operate dynamically by querying localized data states rather than compiling heavy concrete gameplay references, maximizing performance optimization.
-
+<br>
 
 ## ⚙️ Core Technical Features <br>
 
