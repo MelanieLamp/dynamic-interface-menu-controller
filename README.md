@@ -1,3 +1,4 @@
+<br>
 
 # UI/UX Menu Controller Framework
 
@@ -9,8 +10,7 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 
 > **Architecture Principle:** All menus, buttons, and HUD elements function as lightweight presentation layers. They operate dynamically by querying localized data states rather than compiling heavy concrete gameplay references, maximizing performance optimization.
 
----C:\Users\Mark Lamp\Desktop\Portfolio Website\html5up_website\demos\inventoryDemo.webp
-
+<br>
 ## ⚙️ Core Technical Features
 
 <p align="left">
@@ -28,11 +28,11 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 ### 3. Inventory Matrix Lifecycle Loop
 * **Boundary Evaluation:** Instantly polls an object's structural properties upon entering its interaction boundary to initialize automated pickup routines.
 * **UI-to-World Synchronization:** Populates container matrices with mapped visual icons, flushes active memory references on deployment, and handles physical 3D object regeneration within a self-contained lifecycle loop.
-
+<br>
 ---
 
 <img width="837" height="388" alt="graphInventory" src="https://github.com/user-attachments/assets/e9558564-3e88-48ab-90a1-ed2365f86f20" />
-
+<br>
 
 ### Data Translation Pipeline
 1. **Detection:** Entity breaches asset boundary $\rightarrow$ Object structural properties are parsed.
