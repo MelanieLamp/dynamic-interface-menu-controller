@@ -13,7 +13,7 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 
 ## ⚙️ Core Technical Features
 
-<p align="right">
+<p align="left">
   <img src="images/menuDemo.webp" alt="UI/UX Menu Controller Framework Preview Banner" width="750" />
 </p><br>
 
