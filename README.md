@@ -32,7 +32,7 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 ---
 
 <img width="837" height="388" alt="graphInventory" src="https://github.com/user-attachments/assets/e9558564-3e88-48ab-90a1-ed2365f86f20" />
-<br>
+<br><br>
 
 ### Data Translation Pipeline
 1. **Detection:** Entity breaches asset boundary $\rightarrow$ Object structural properties are parsed.
@@ -41,7 +41,6 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 4. **Purge & Spawn:** Interface slot selection triggered $\rightarrow$ Local data slot reference dropped $\rightarrow$ 3D object regenerated in virtual coordinates.
 <br>
 
-<br>
 ## 📅 Roadmap & Future Milestones
 
 - [ ] **Automated Save-State Serialization:** Integrate automated state serializers directly into the primary startup boot sequences.
