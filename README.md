@@ -5,10 +5,6 @@
   <img src="images/inventoryDemo.webp" alt="UI/UX Menu Controller Framework Preview Banner" width="750" />
 </p><br>
 
-<p align="right">
-  <img src="images/menuDemo.webp" alt="UI/UX Menu Controller Framework Preview Banner" width="750" />
-</p>
-
 A modular, data-driven user interface architecture engineered to bridge aesthetic visual layouts with responsive backend game state logic. By establishing a clean separation between artistic presentation templates and core system execution, this framework dynamically manages diverse menu screens and game runtime states under strict memory and performance budgets.
 
 > **Architecture Principle:** All menus, buttons, and HUD elements function as lightweight presentation layers. They operate dynamically by querying localized data states rather than compiling heavy concrete gameplay references, maximizing performance optimization.
@@ -16,6 +12,10 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 ---C:\Users\Mark Lamp\Desktop\Portfolio Website\html5up_website\demos\inventoryDemo.webp
 
 ## ⚙️ Core Technical Features
+
+<p align="right">
+  <img src="images/menuDemo.webp" alt="UI/UX Menu Controller Framework Preview Banner" width="750" />
+</p><br>
 
 ### 1. Structural Decoupling
 * **Data-Driven View Binding:** Completely detaches visual layout assets from core simulation and gameplay scripts.
