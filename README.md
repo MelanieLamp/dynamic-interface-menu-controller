@@ -15,7 +15,7 @@ A modular, data-driven user interface architecture engineered to bridge aestheti
 
 <p align="left">
   <img src="images/menuDemo.webp" alt="UI/UX Menu Controller Framework Preview Banner" width="750" />
-</p><br>
+</p> <br>
 
 ### 1. Structural Decoupling
 * **Data-Driven View Binding:** Completely detaches visual layout assets from core simulation and gameplay scripts.
